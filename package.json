@@ -23,5 +23,9 @@
   "devDependencies": {
     "dtslint": "github:Microsoft/dtslint#production",
     "types-publisher": "Microsoft/types-publisher#production"
+  },
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "bitcoinjs-lib": "^3.3.2"
   }
 }
